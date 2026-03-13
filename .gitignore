@@ -1,0 +1,11 @@
+data/
+models/
+__pycache__/
+*.pyc
+.DS_Store
+.cache/
+.ipynb_checkpoints/
+*.zip
+*.pt
+*.pth
+*.joblib
